@@ -37,7 +37,11 @@ However, in the analysis I have selected only 2 table to join each other which a
 
 # Findings
 
+![alt text](https://github.com/Panuvat-Dan/Investigate-a-dataset/blob/main/chart1.JPG)
+
 Q1. The best professional player from top ten during 2008-2016 is Lionel Messi who got overall_rating around 92 points.
+
+![alt text](https://github.com/Panuvat-Dan/Investigate-a-dataset/blob/main/chart2.JPG)
 
 Q2.We shall see that the more year goes,the more player rating. It is because the rising players who is less than 20 year have less experience than other groups. Moreover, you
 shall see that in the first group (less than 20 y) and inthe second group (20 to 30 y) shows that the players who have height less than 170 cm. get higher score than player who
