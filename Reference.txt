@@ -1,0 +1,10 @@
+web in used
+
+-https://stackoverflow.com/questions/38807895/seaborn-multiple-barplots
+-https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+-https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8
+-https://stackoverflow.com/questions/34846180/how-to-replace-values-in-column-for-every-rows-with-same-values-in-pandas
+
+git repo
+
+https://github.com/Panuvat-Dan/Investigate-a-dataset
